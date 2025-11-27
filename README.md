@@ -6,9 +6,9 @@
 
   **2.** Compare [Net Sales Performance for Indian market](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers_Market%20in%20India.pdf)
 
-  **3.** Report on [Profit and Loss for FY 2021](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%202021.pdf)
+  **3.** Report on [Profit and Loss for Fiscal Year](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%202021.pdf)
 
-  **4.** Generate a [Top 10 Products with Highest Growth %](https://github.com/niketjha02/excel-sales-insights/blob/main/Top%2010%20Products%20by%20Growth%25_2021%20vs%202020.pdf)
+  **4.** Report on [Profit & Loss by Fiscal Months](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Months.pdf)
 
   **5.** Build a [Quarterly Zonewise Gross Margin %](https://github.com/niketjha02/excel-sales-insights/blob/main/Zonewise%20Gross%20Margin%20%25%20_Quarterly.pdf)
 
