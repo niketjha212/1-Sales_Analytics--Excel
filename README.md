@@ -12,6 +12,8 @@
 
   **5.** Report on [Profit and Loss by YOY comparison](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Years.pdf)
 
+   **6.** Generate report on [Top 10 Product list](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers.pdf) 
+
 **Purpose**
 -Enable businesses to assess and monitor sales performance comprehensively.
 
