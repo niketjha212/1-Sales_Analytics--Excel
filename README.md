@@ -2,7 +2,7 @@
 
 **Project Objective:** 
 
-  **1.** Create a [Customer Performance Report](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers.pdf) 
+  **1.** Create a [Customer Net Sales Performance Report](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers.pdf) 
 
   **2.** Compare [Net Sales Performance by All Customers](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
 
