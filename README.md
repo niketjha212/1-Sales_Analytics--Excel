@@ -4,15 +4,15 @@
 
   **1.** Create a [Customer Net Sales Performance Report](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers.pdf) 
 
-  **2.** Compare [Net Sales Performance for Indian market](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers_Market%20in%20India.pdf)
+  **2.** Create a report to compare [Net Sales Performance for Indian market](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers_Market%20in%20India.pdf)
 
-  **3.** Report on [Profit and Loss by Fiscal Year](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%202021.pdf)
+  **3.** Created a report on [Profit and Loss by Fiscal Year](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%202021.pdf)
 
-  **4.** Report on [Profit & Loss by Fiscal Months](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Months.pdf)
+  **4.** Created a report on [Profit & Loss by Fiscal Months](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Months.pdf)
 
-  **5.** Report on [Profit and Loss by YOY comparison](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Years.pdf)
+  **5.** Created a report on [Profit and Loss by YOY comparison](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Years.pdf)
 
-   **6.** Generate report on [Top 10 Product list](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers.pdf) 
+   **6.** Created a report on [Top 10 Product list](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers.pdf) 
 
 **Purpose**
 -Enable businesses to assess and monitor sales performance comprehensively.
