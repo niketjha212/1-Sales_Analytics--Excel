@@ -4,7 +4,7 @@
 
   **1.** Create a [Customer Net Sales Performance Report](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers.pdf) 
 
-  **2.** Compare [Net Sales Performance by All Customers](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
+  **2.** Compare [Net Sales Performance for Indian market](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers_Market%20in%20India.pdf)
 
   **3.** Compare [Net Sales Performance by All Customers in Indian Market](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers_Market%20in%20India.pdf)
 
