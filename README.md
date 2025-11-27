@@ -17,7 +17,8 @@
    **7.** Created a report on [Zonewise Gross Margin % for Quarters](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Zonewise%20Gross%20Margin%20%25%20_Quarterly.pdf) 
 
 **Purpose**
--Enable businesses to assess and monitor sales performance comprehensively.
+- Enable businesses to assess and monitor sales performance comprehensively.
+- Evaluate financial performance, support decision-making, and strengthen stakeholder communication.
 
 **Why it matters?** 
 - Discover patterns
@@ -30,26 +31,10 @@
 - Empower negotiations
 - Explore new markets
 
-
-## Finance Report:
-
-**Project Objective:** 
-
-**1.** Create Profit and Loss (P&L) Reports by [Fiscal Year](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Years.pdf) & [Months](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Months.pdf) 
-
-**2.** Create Profit and Loss (P&L) Reports by [Markets](https://github.com/niketjha02/excel-sales-insights/blob/main/Net%20Sales%20by%20All%20Customers.pdf)
-
-**Purpose**
-- Evaluate financial performance, support decision-making, and strengthen stakeholder communication.
-
 **Why Analyze Finance Data?**
 - Benchmark against peers & previous years
 - Lay a foundation for budgeting & forecasting
-
-**Why it matters?** 
 - Benchmark performance over time & against competitors.
-
-**Impact** 
 - Aligns financial planning with strategic goals and instills confidence in your financial outlook.
 
 ## Technical Skills:
