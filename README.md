@@ -1,5 +1,5 @@
 # Sales Insights Report
-
+---
 ## Project Objective: 
 
   **1.** Create a [Customer Net Sales Performance Report](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers.pdf) 
@@ -15,6 +15,8 @@
    **6.** Created a report on [Top 10 Products list](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers.pdf) 
 
    **7.** Created a report on [Zonewise Gross Margin % for Quarters](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Zonewise%20Gross%20Margin%20%25%20_Quarterly.pdf) 
+
+---
 
 **Purpose**
 - Enable businesses to assess and monitor sales performance comprehensively.
