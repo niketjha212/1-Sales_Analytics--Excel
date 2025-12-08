@@ -1,4 +1,5 @@
-# Sales Insights Report
+# 📈 Sales Insights Report — Net Sales, Profitability & Market Analysis
+
 
 ---
 ## Project Objectives: 
