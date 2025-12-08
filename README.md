@@ -1,7 +1,23 @@
 # 📈 Sales Insights Report — Net Sales, Profitability & Market Analysis
 
+---
+
+## 🎯 What Is This Project About?
+
+This project is a comprehensive **Sales Insights and Profitability Analysis** designed to help businesses understand their financial and operational performance using real-world sales data. The objective is to transform raw, unstructured data into meaningful, actionable insights through a series of well-designed reports covering Net Sales, Profit & Loss, Product Performance, and Regional Gross Margins.
+
+The project leverages **Excel, Power Query, Power Pivot, and DAX** to build an interactive analytics dashboard that enables:
+
+- Clear visibility into **customer-wise and market-wise sales performance**
+- In-depth evaluation of **profitability across fiscal years and months**
+- Identification of **high-performing products and growth drivers**
+- Understanding of **regional variations in gross margin and sales trends**
+- Strategic comparison through **YOY (Year-over-Year) analysis**
+
+Overall, this project demonstrates how structured reporting, strong financial understanding, and analytical modeling can support effective business planning, stakeholder communication, and data-driven decision-making.
 
 ---
+
 ## Project Objectives: 
 The primary objective of this project is to design and build a comprehensive Sales Performance & Profitability Analytics Dashboard that enables data-driven decision-making across multiple business dimensions. The analysis aims to:
 
