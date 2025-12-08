@@ -1,6 +1,6 @@
 # Sales Insights Report
 ---
-## Project Objective: 
+## Project Objectives: 
 
   **1.** Create a [Customer Net Sales Performance Report](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers.pdf) 
 
