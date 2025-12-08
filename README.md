@@ -199,7 +199,7 @@ Overall, this analysis equips stakeholders with the intelligence needed to refin
 
 ---
 
-## 📁 Overall Summary (With Numeric Insights)
+## 📁 Overall Summary 
 
 This Sales Insights project provides a data-driven understanding of business performance by analyzing more than **10,000+ transactional records** across customers, products, regions, and fiscal periods. The dashboards and reports collectively uncover patterns in sales contribution, profitability, and market behavior that support strategic decision-making.
 
