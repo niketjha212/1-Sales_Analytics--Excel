@@ -30,7 +30,7 @@ The primary objective of this project is to design and build a comprehensive Sal
 - Discover patterns
 - Track KPIs
 - Make data-driven decisions
-- 
+
 ---
 
 ## How it helps?
