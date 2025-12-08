@@ -52,67 +52,77 @@ By analyzing Net Sales, Profit & Loss, product performance, and regional margins
 
 This project reflects real-world business intelligence practices used by sales teams, finance teams, and leadership groups to drive **strategic planning, performance monitoring, and long-term profitability**.
 
+---
+
+## 📁 Dataset Overview
+
+The dataset used for this Sales Insights project contains detailed transactional and financial information required to analyze customer performance, product profitability, and regional sales trends. The raw data was obtained from the **Codebasics Sales Insights Challenge**, a widely used real-world industry case study.
+
+| Category | Details |
+|---------|---------|
+| **Source** | Codebasics – Sales Insights Data (Excel Dataset) |
+| **Total Records** | ~10,000+ sales transactions |
+| **Customer Data** | Customer names, zones, markets |
+| **Product Data** | Product names, categories, cost & price values |
+| **Sales Metrics** | Net Sales, Gross Margin, GM%, COGS |
+| **Time Intelligence Data** | Fiscal Year, Fiscal Month, Fiscal Quarter |
+| **Regions/Zones Covered** | 4 major zones |
+| **Data Quality** | Missing values treated; data standardized & transformed |
+
+The dataset includes multiple interconnected tables such as:  
+- **Customers** (customer details & geographic mapping)  
+- **Products** (product pricing, manufacturing cost, and category)  
+- **Transactions** (sales amounts, gross margins, COGS)  
+- **Dates Table** (fiscal months, years, and quarters)  
+
+This structured dataset enabled comprehensive modeling and the creation of insightful performance reports using Excel, Power Query, Power Pivot, and DAX.
 
 ---
 
 ## 📂 What This Project Includes
 
-This project delivers a complete end-to-end Sales & Profitability Analysis framework, covering data processing, modeling, and insight generation. It includes:
-
-- **Comprehensive Sales Performance Reports**  
+- **Sales Performance Reports**
   - Customer-wise Net Sales  
-  - Market-level sales comparison (India vs global)  
+  - Market comparison (India vs Global)
 
-- **Profit & Loss Analysis**  
-  - Fiscal Year P&L summary  
-  - Fiscal Month P&L trends  
-  - Year-over-Year (YOY) profitability comparison  
+- **Profit & Loss Analysis**
+  - Fiscal Year P&L  
+  - Fiscal Month trends  
+  - YOY profitability comparison  
 
-- **Product Performance Insights**  
-  - Top 10 high-revenue products  
-  - Contribution analysis and growth indicators  
+- **Product Insights**
+  - Top 10 revenue-generating products  
+  - Contribution and growth indicators  
 
-- **Regional & Zone-Level Insights**  
-  - Zone-wise Gross Margin % breakdown  
-  - Quarterly GM% comparison for operational efficiency  
+- **Regional & Zone-wise Analysis**
+  - Zone-wise Gross Margin %  
+  - Quarterly GM% comparison  
 
-- **Data Modeling & ETL Workflow**  
-  - Data cleaning, transformation, and enrichment  
-  - Date table creation (fiscal months, quarters)  
-  - Relationship building using Power Pivot  
-  - DAX-based calculated columns and measures  
+- **Data Modeling & ETL**
+  - Data cleaning & transformation  
+  - Fiscal date table creation  
+  - Power Pivot relationships  
+  - DAX measures & calculated columns  
 
-- **Visualization & Reporting**  
-  - Clear, interactive dashboards  
-  - Charts, KPIs, and summary visuals for decision-making  
+- **Visualization & Reporting**
+  - Interactive dashboards  
+  - KPIs, charts, and summary visuals  
 
-Overall, this project provides a complete analytical solution that enables businesses to interpret their sales and financial performance meaningfully and strategically.
+This concise version highlights the complete analytical scope while keeping the section clean and readable.
 
 ---
 
 ## 🛠 Tools & Technologies Used
 
-This project was built using a combination of Excel-based analytics and business intelligence tools, including:
+- **Excel Power Query** – Data cleaning, transformation (ETL)  
+- **Excel Power Pivot** – Data modeling & relationships  
+- **DAX** – Measures, calculated columns, fiscal logic  
+- **PivotTables & PivotCharts** – Dynamic reporting & insights  
+- **Excel Dashboards** – Interactive visuals, KPIs, slicers  
+- **Conditional Formatting** – Trend highlighting  
+- **Analytical Techniques** – YOY analysis, profitability metrics, margin analysis  
 
-### **Data Processing & Transformation**
-- **Excel Power Query** – ETL operations (Extract, Transform, Load)  
-- **Excel Power Pivot** – Data modeling, creating relationships, star schema  
-- **Excel Tables** – Structured data management  
-
-### **Data Modeling & Calculations**
-- **DAX (Data Analysis Expressions)** – Custom measures, calculated columns  
-- **Fiscal calendar creation** – Deriving fiscal months, quarters, and year logic  
-
-### **Visualization & Reporting**
-- **Excel Dashboards** – Interactive charts, slicers, KPI indicators  
-- **Conditional Formatting** – Trend highlighting & visual emphasis  
-- **PivotTables & PivotCharts** – Dynamic insights and drill-down capabilities  
-
-### **Supporting Tools**
-- **Data Cleaning Techniques** – Standardization, missing value handling, transformations  
-- **Analytical Methods** – YOY analysis, profitability analysis, trend evaluation  
-
-These tools collectively enable a powerful, scalable, and insight-driven reporting ecosystem that supports strategic business decision-making.
+Together, these tools create a robust and scalable framework for sales and profitability reporting.
 
 ---
 
