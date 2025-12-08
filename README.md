@@ -126,7 +126,7 @@ Together, these tools create a robust and scalable framework for sales and profi
 
 ---
 
-## 🔍 Key Findings from the Analysis
+# 🔍 Key Findings from the Analysis:
 
 The analysis uncovers important patterns in sales performance, profitability, product contribution, and regional financial health. Key findings include:
 
