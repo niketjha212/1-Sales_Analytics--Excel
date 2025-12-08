@@ -18,26 +18,34 @@
 
 ---
 
-**Purpose**
+## Purpose
 - Enable businesses to assess and monitor sales performance comprehensively.
 - Evaluate financial performance, support decision-making, and strengthen stakeholder communication.
 
-**Why it matters?** 
+---
+
+## Why it matters?
 - Discover patterns
 - Track KPIs
 - Make data-driven decisions
-  
-**How it helps?** 
+- 
+---
+
+## How it helps?
 - Get clear insights
 - Optimize discounts
 - Empower negotiations
 - Explore new markets
 
-**Why Analyze Finance Data?**
+---
+
+## Why Analyze Finance Data?
 - Benchmark against peers & previous years
 - Lay a foundation for budgeting & forecasting
 - Benchmark performance over time & against competitors.
 - Aligns financial planning with strategic goals and instills confidence in your financial outlook.
+
+---
 
 ## Technical Skills:
 - ETL methodology (Extract, Transform, Load)
@@ -46,6 +54,8 @@
 - Establishing data model relationships with Power Pivot
 - Integrating supplementary data into existing models
 - Creating calculated columns with DAX
+
+---
 
 ## Soft Skills:
 - Deep understanding of Sales & Finance Reporting
