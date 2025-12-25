@@ -21,7 +21,7 @@ Overall, this project demonstrates how structured reporting, strong financial un
 ## 📁 Project Objectives: 
 The primary objective of this project is to design and build a comprehensive Sales Performance & Profitability Analytics Dashboard that enables data-driven decision-making across multiple business dimensions. The analysis aims to:
 
-  **1.** Evaluate [Customer Net Sales Performance Report](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers.pdf) to identify high-value customers, revenue contribution, and sales trends. 
+  **1.** Evaluate [Customer Net Sales Performance Report](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Customers%20Net%20Sales%20Performance_All.pdf) to identify high-value customers, revenue contribution, and sales trends. 
 
   **2.** Compare [Net Sales Performance for Indian market](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers_Market%20in%20India.pdf) allowing region-focused strategic insights. 
 
