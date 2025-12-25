@@ -2,7 +2,7 @@
 
 ---
 
-## 🎯 Project Overview
+## 📁Project Overview
 
 This project focuses on analyzing sales growth, profitability, and market performance for AtliQ Hardwares, a global hardware manufacturer dealing in PCs, printers, mice, and computing accessories.
 
@@ -86,14 +86,14 @@ This structured dataset enabled comprehensive modeling and the creation of insig
 
 ---
 
-## 🧭 Key Insights & Findings
+## 📁 Key Insights & Findings
 
 📈 Overall Sales Performance
 
 - Sales grew rapidly from $87.5M in 2019 to $598.9M in 2021, reflecting strong business expansion.
 - Despite high growth, 2021 sales missed targets by $54.9M, leading to a 9.2% overall shortfall, highlighting execution and efficiency gaps.
 
-## 🌍 Market Performance Highlights
+## 📁 Market Performance Highlights
 
 Top Performing Markets
 - India generated the highest sales at $161.3M (2021), but missed its target by $9.6M (5.9%).
