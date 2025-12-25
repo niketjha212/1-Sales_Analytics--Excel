@@ -99,12 +99,12 @@ This structured dataset enabled comprehensive modeling and the creation of insig
 
 ## 📁 Market Performance Highlights
 
-# Top Performing Markets
+Top Performing Markets
 - India generated the highest sales at $161.3M (2021), but missed its target by $9.6M (5.9%).
 - USA recorded $87.8M, falling short by $10.2M (11.7%).
 - South Korea achieved $49.0M, missing the target by $4.4M (8.9%).
 
-# Underperforming Markets
+Underperforming Markets
 - Poland showed the highest relative gap with an 18.1% shortfall.
 - Canada achieved $35.1M, but missed targets by 14.5%.
 - Spain recorded $12.6M, with a 14.1% deviation, indicating performance challenges.
