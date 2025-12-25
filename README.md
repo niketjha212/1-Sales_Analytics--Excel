@@ -21,20 +21,21 @@ Overall, this project demonstrates how structured reporting, strong financial un
 ## 📁 Project Objectives: 
 The primary objective of this project is to design and build a comprehensive Sales Performance & Profitability Analytics Dashboard that enables data-driven decision-making across multiple business dimensions. The analysis aims to:
 
-  **1.** Evaluate [Customer Net Sales Performance Report](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Customers%20Net%20Sales%20Performance_All.pdf) to identify high-value customers, revenue contribution, and sales trends. 
+**1.** Evaluate [Customer Net Sales Performance Report](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Customers%20Net%20Sales%20Performance_All.pdf) to identify high-value customers, revenue contribution, and sales trends. 
 
-  **2.** Compare [Net Sales Performance for Indian market](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers_Market%20in%20India.pdf) allowing region-focused strategic insights. 
+**2.** Compare [Net Sales Performance for Indian market](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Customers%20Net%20Sales%20Peformance_Market%20in%20India.pdf) allowing region-focused strategic insights. 
 
-  **3.** Generate [Profit and Loss by Fiscal Year](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%202021.pdf) to assess annual financial health and long-term profitability. 
+**3.** Generate [Profit and Loss by Fiscal Year](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/P%26L%20by%20Fiscal%20Years.pdf) to assess annual financial health and long-term profitability. 
 
-  **4.** Create [Profit & Loss by Fiscal Months](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Months.pdf) for detailed operational tracking and seasonal pattern identification. 
+**4.** Create [Profit & Loss by Fiscal Months](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/P%26L%20by%20Fiscal%20Months.pdf) for detailed operational tracking and seasonal pattern identification. 
 
-  **5.** Develop [Profit and Loss by YOY comparison](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%2C%20COGS%2C%20GM%20%26%20GM%25%20by%20Fiscal%20Years.pdf) to measure growth, efficiency, and business progress over time. 
+**5.** Develop [Profit and Loss by YOY comparison](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/P%26L%20for%20Markets_%20FY21.pdf) to measure growth, efficiency, and business progress over time. 
 
-   **6.** Identify the [Top 10 Products](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Net%20Sales%20by%20All%20Customers.pdf) contributing to overall revenue and profitability. 
+**6.** Identify the [Top 10 Products](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Top%2010%20Products_2021%20vs%202020.pdf) contributing to overall revenue and profitability. 
 
-   **7.** Analyze [Zonewise Gross Margin % for Quarters](https://github.com/niketjha212/1-Sales-Insights_Excel/blob/main/images/Zonewise%20Gross%20Margin%20%25%20_Quarterly.pdf) to understand regional profitability, cost efficiency, and sales performance. 
+**7.** Analyze [Zonewise Gross Margin % for Quarters](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/GM%25%20_By%20Quarters.pdf) to understand regional profitability, cost efficiency, and sales performance. 
 
+**8.** Analyze [Market Performance vs Targets](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Market%20Performance%20vs%20Targets.pdf) to understand regional performance and the % lags in target. 
 
 ---
 
