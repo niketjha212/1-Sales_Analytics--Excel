@@ -68,7 +68,7 @@ This structured dataset enabled comprehensive modeling and the creation of insig
 
 ## 📁 Reports Developed: 
 
-**1.** Evaluate [Customer Net Sales Performance Report](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Customers%20Net%20Sales%20Performance_All.pdf) to identify high-value customers, revenue contribution, and sales trends. 
+**1.** [Customer Net Sales Performance Report](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Customers%20Net%20Sales%20Performance_All.pdf)
 
 **2.** Compare [Net Sales Performance for Indian market](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Customers%20Net%20Sales%20Peformance_Market%20in%20India.pdf) allowing region-focused strategic insights. 
 
