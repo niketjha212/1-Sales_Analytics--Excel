@@ -70,19 +70,19 @@ This structured dataset enabled comprehensive modeling and the creation of insig
 
 **1.** [Customer Net Sales Performance Report](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Customers%20Net%20Sales%20Performance_All.pdf)
 
-**2.** Compare [Net Sales Performance for Indian market](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Customers%20Net%20Sales%20Peformance_Market%20in%20India.pdf) allowing region-focused strategic insights. 
+**2.** [Net Sales Performance for Indian market](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Customers%20Net%20Sales%20Peformance_Market%20in%20India.pdf)
 
-**3.** Generate [Profit and Loss by Fiscal Year](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/P%26L%20by%20Fiscal%20Years.pdf) to assess annual financial health and long-term profitability. 
+**3.** [Profit and Loss by Fiscal Year](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/P%26L%20by%20Fiscal%20Years.pdf)
 
-**4.** Create [Profit & Loss by Fiscal Months](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/P%26L%20by%20Fiscal%20Months.pdf) for detailed operational tracking and seasonal pattern identification. 
+**4.** [Profit & Loss by Fiscal Months](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/P%26L%20by%20Fiscal%20Months.pdf)
 
-**5.** Develop [Profit and Loss by YOY comparison](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/P%26L%20for%20Markets_%20FY21.pdf) to measure growth, efficiency, and business progress over time. 
+**5.** [Profit and Loss by YOY comparison](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/P%26L%20for%20Markets_%20FY21.pdf) 
 
-**6.** Identify the [Top 10 Products](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Top%2010%20Products_2021%20vs%202020.pdf) contributing to overall revenue and profitability. 
+**6.** [Top 10 Products](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Top%2010%20Products_2021%20vs%202020.pdf) 
 
-**7.** Analyze [Zonewise Gross Margin % for Quarters](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/GM%25%20_By%20Quarters.pdf) to understand regional profitability, cost efficiency, and sales performance. 
+**7.** [Zonewise Gross Margin % for Quarters](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/GM%25%20_By%20Quarters.pdf)
 
-**8.** Analyze [Market Performance vs Targets](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Market%20Performance%20vs%20Targets.pdf) to understand regional performance and the % lags in target. 
+**8.** [Market Performance vs Targets](https://github.com/niketjha212/1-Sales_Analytics--Excel/blob/main/reports/Market%20Performance%20vs%20Targets.pdf)
 
 ---
 
