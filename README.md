@@ -1,4 +1,4 @@
-# 📈 Sales Insights Report — Net Sales, Profitability & Market Analysis
+# 📈 Sales Analytics Report 
 
 ---
 
