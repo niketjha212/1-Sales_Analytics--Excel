@@ -2,7 +2,7 @@
 
 ---
 
-## 📁Project Overview
+## 📁 Project Overview
 
 This project focuses on analyzing sales growth, profitability, and market performance for AtliQ Hardwares, a global hardware manufacturer dealing in PCs, printers, mice, and computing accessories.
 
