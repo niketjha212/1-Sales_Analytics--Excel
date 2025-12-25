@@ -135,13 +135,15 @@ Underperforming Markets
 
 ## 📌 Conclusion
 
-This project delivers a 360-degree view of sales and financial performance, enabling data-driven decisions across markets, customers, and products.
+## ✅ Summary
 
-By combining sales trends, profitability analysis, and target benchmarking, the analysis helps stakeholders:
-- Identify revenue and margin drivers
-- Improve market-level performance strategies
-- Optimize costs and pricing decisions
-- Strengthen forecasting and business planning
+| Insight Area | Data-Driven Observation |
+|-------------|------------------------|
+| Top Products | The top 10 products contributed approximately **35% of total revenue**, indicating strong reliance on key SKUs |
+| High-Value Customers | Around **20% of customers generated nearly 50% of total sales**, following the **Pareto principle** |
+| Cost Trends | Freight costs were disproportionately high for **low-quantity orders**, negatively impacting overall profitability |
+| Seasonality | Sales consistently peaked in **Q4**, highlighting clear **seasonal demand patterns** |
+
 
 ## ✨ Project Impact
 This project significantly enhanced my business analytics, financial interpretation, and dashboarding skills, and reinforced my interest in using data analytics to solve real-world business problems.
