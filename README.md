@@ -57,12 +57,12 @@ This structured dataset enabled comprehensive modeling and the creation of insig
 
 ## 📂 Tools & Technologies Used
 
-Microsoft Excel (Advanced) – Reporting & dashboards
-Power Query – Data cleaning and transformation (ETL)
-Power Pivot – Data modeling and relationships
-DAX – YOY analysis, fiscal calculations, margins
-Pivot Tables & Charts – Interactive analysis
-Business Metrics – Net Sales, GM%, COGS, P&L
+- Microsoft Excel (Advanced) – Reporting & dashboards
+- Power Query – Data cleaning and transformation (ETL)
+- Power Pivot – Data modeling and relationships
+- DAX – YOY analysis, fiscal calculations, margins
+- Pivot Tables & Charts – Interactive analysis
+- Business Metrics – Net Sales, GM%, COGS, P&L
 
 ---
 
