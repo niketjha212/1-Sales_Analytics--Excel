@@ -64,6 +64,19 @@ This structured dataset enabled comprehensive modeling and the creation of insig
 - Pivot Tables & Charts – Interactive analysis
 - Business Metrics – Net Sales, GM%, COGS, P&L
 
+
+## 📂 Tools, Technologies & Skills Used
+
+| Category | Tool / Concept | Usage in Project |
+|--------|----------------|------------------|
+| Spreadsheet & BI | Microsoft Excel (Advanced) | Built interactive dashboards, KPI summaries, and analytical reports |
+| Data Transformation (ETL) | Power Query | Cleaned, standardized, and transformed raw transactional data |
+| Data Modeling | Power Pivot | Created data models, managed table relationships, and optimized calculations |
+| Analytics & Calculations | DAX | Implemented YOY analysis, fiscal logic, margin calculations, and KPIs |
+| Reporting & Visualization | Pivot Tables & Charts | Enabled dynamic slicing, drill-down analysis, and visual insights |
+| Business Metrics | Financial & Sales KPIs | Analyzed Net Sales, GM%, COGS, and Profit & Loss (P&L) |
+
+
 ---
 
 ## 📁 Reports Developed: 
