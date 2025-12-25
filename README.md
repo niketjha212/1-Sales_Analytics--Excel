@@ -132,9 +132,6 @@ Underperforming Markets
 
 ---
 
-
-## 📌 Conclusion
-
 ## ✅ Summary
 
 | Insight Area | Data-Driven Observation |
@@ -144,8 +141,12 @@ Underperforming Markets
 | Cost Trends | Freight costs were disproportionately high for **low-quantity orders**, negatively impacting overall profitability |
 | Seasonality | Sales consistently peaked in **Q4**, highlighting clear **seasonal demand patterns** |
 
+---
 
-## ✨ Project Impact
-This project significantly enhanced my business analytics, financial interpretation, and dashboarding skills, and reinforced my interest in using data analytics to solve real-world business problems.
+## 🚀 Expected Project Impact
+- Improve visibility into market-level sales vs targets
+- Enable identification of high-value customers and products
+- Support margin improvement through cost analysis
+- Assist leadership in data-driven planning
 
 ---
